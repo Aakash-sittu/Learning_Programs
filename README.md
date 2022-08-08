@@ -29,6 +29,6 @@ C,C++,HTML.
 
 ## Support
 
-For support, email me at atcodeplus@gmail.com
+For support or collaborations, email me at atcodeplus@gmail.com
 
-
+ 
